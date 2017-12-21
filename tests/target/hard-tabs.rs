@@ -26,6 +26,8 @@ fn main() {
 	) = 1 + 2 + 3
 	{}
 
+	// comment on one line
+	// comment on another line
 	if cond() {
 		something();
 	} else if different_cond() {

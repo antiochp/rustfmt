@@ -17,7 +17,8 @@ let str = "AAAAAAAAAAAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAA
 if let (some_very_large, tuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuple) = 1
 + 2 + 3 {
 }
-
+    // comment on one line
+    // comment on another line
     if cond() {
         something();
     } else  if different_cond() {
